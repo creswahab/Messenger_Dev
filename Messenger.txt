@@ -12,7 +12,7 @@ Author: Jupiter
 
 5. Hiding last seen implementation
 
-6. Adding Video and Audio Feature
+6. Adding Document, Video and Audio Feature
 
 7. Adding Status Feature
 
